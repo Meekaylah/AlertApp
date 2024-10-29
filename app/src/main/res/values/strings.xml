@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alert App</string>
+    <string name="text">Click a button to see what it does.</string>
+    <string name="button1">Toast!</string>
+    <string name="button2">Alert!</string>
+    <string name="button3">Tell me!</string>
+    <string name="toast_message">Oops! Wrong button!</string>
+</resources>
